@@ -44,9 +44,19 @@ main {
 #carouselExampleCaptions1 {
   width: 500px;
 }
+@media screen and (max-width: 600px) {
+  #carouselExampleCaptions1 {
+    width: 350px;
+  }
+}
 
 #carouselExampleCaptions {
   width: 500px;
+}
+@media screen and (max-width: 600px) {
+  #carouselExampleCaptions {
+    width: 350px;
+  }
 }
 
 .card {
