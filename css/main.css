@@ -63,6 +63,12 @@ main {
   width: 60vw;
 }
 
+.formulario {
+  padding: 20px;
+  border: 1px solid #bdbdbd;
+  border-radius: 7px;
+}
+
 * {
   font-family: "Tahoma";
   border: 0;
